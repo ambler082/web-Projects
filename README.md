@@ -1,5 +1,4 @@
 # Web_Projects
-
--starter
--exapnding
--progress bar
+- starter
+- exapnding
+- progress bar
